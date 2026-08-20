@@ -1,20 +1,28 @@
 # I practiced drawing for 7 days to see how far I'll get.
 
-You ever just come across someone's drawing and feel the overwhelming **power** artists have over us **plebs**? I don't care, 'cus I have, and I want that power.
-
-I'm not starting from scratch but I'm not exactly *that* experienced either. After all, it's merely comprised of half-assed attempts and drawings from the ancient times.
-
-So here's how we're doin' this.
+You ever just come across someone's drawing and feel the overwhelming **power** artists have over us **plebs**? 'Cus I have, and I want that power.
 
 
 
-On Day 0, I'll draw something---anything, just as a baseline. It doesn't have to be good, but it has to be my best, if that makes sense.
+First, some context: I'm not starting from scratch but I'm not exactly experienced either. These are probably the full extent of what I can call "drawings", after all.
+
+So here's how we're doin' this:
+
+On Day 0, I'll draw something---anything, just as a baseline. It doesn't have to be good, but it has to be my best.
 
 Then, on days 1 through 7, I'll be practicing whatever I feel like needs practice. Even just an hour of drawing on each of these days will be plenty.
 
+That said, I won't be restricting myself to practicing 7 days in a row---it doesn't have to be consecutive---the goal is to ensure I'm picking up the pen only when I'm ready to do so.
+
 Then, on day 8, I'll draw more or less the same thing as day 0, but with the new things I've learnt.
 
-*Earthman: "What if it turns out worse than the first one?"*
+
+
+My prediction is that it won't look *that much better*, but it will look more natural than the baseline.
+
+[Inserted clip from Day 0]
+
+*Earthman: "What if it turns out worse than the first one?"* 
 
 That would be funny!
 
@@ -24,40 +32,66 @@ That would be funny!
 
 ## Day 0 - Baseline / Control
 
+[Cut to chapter card]
+
+
+
 [Compilation of clips of me drawing throughout the script.]
 
-I don't want you to suffer through this so I'll just explain what's going on.
+*"Huh, why aren't you drawing, Rus? I thought you gotta draw the crappy baseline first?"
 
-He---and by "he", I mean "I"---was drawing this monstrosity digitally on Krita. Now, there's nothing wrong with that, except for the fact he spent like 3 hours configuring his setup like an **idiot**!
+See, I chose to draw on Krita on PC 'cus I happened to have a drawing tablet already, which was great n' all but here's the thing---I kind of had to reinstall Windows recently...
 
->  Note: Okay, to be fair, I thought I had it set up already, but then I forgot I had to reinstall Windows a few months back.
+So I spent like 3 hours setting it up like an **idiot**!
 
-So, on the very first day, we're already taking notes: **prepare your tools**!
+Don't be like this guy, prep your stuff, but don't go overboard.
 
-But, also don't go overboard. Just bring what you need.
+
+
+Going back to the *drawing board*, we have this glorious ancient artifact before us.
+
+I mean, you can clearly tell what's going on. Teto is facing you, holding a sabre, with her other hand behind her back.
+
+My friends said it looked pretty good, but, that's because I didn't show them the abomination that is the lower half of her body.
+
+[Frog laugh SFX + Cat point & laugh JPG]
+
+
+
+Well, guess that marks the first thing I gotta learn to draw, yeah? **No.**
+
+When I started looking for tutorials and learning materials, nearly all of them had one thing in common: they all start with the upper body!
+
+Because, without the upper body, what I'll be drawing isn't anatomy, it'll be a crime scene.
+
+So, let's start with that instead.
 
 ---
 
-And finally, it's done! My friends said it looked pretty good, but I think I could do better with some practice.
+## Day 1 - Crime Scene
 
-Since we're focusing on practicing a certain part tomorrow, I thought to kinda... *triage* what needs work first.
+**The upper body!**
 
-I thought the hair needed some work, especially the drills here lookin' kinda flat. The body's *mostly* there but ehhh, could use some work, but what I haven't told you is that this image is actually cropped---I haven't shown you the feet.
+---
 
-Oh GOD what are THOSE?!
+## Day 1 - Upper Body
 
-[Frog laugh SFX] [Point & laugh stock photo]
+[Chapter card]
 
-There's my work cut out for me I guess.
-
-## Day 1 - Legs & feet
-
-[Compilation of clips of me drawing legs & feet]
-
-I know it sounds sus but I swear I'm only using these feet pics for references!
-
-[Properties reads "Created date: (months ago)"]
-
-> Note: I am this stage of the video. This script will be edited as I go along with the challenge.
+*WIP*
 
 
+
+
+
+---
+
+## Tips
+
+### Find tutorials that fit YOU
+
+One of the most important things I noticed is that there could be 30 tutorials teaching about the exact same thing, but some will be better for you than others.
+
+For example, a lot of tutorials jump to explaining the different muscles and how they interact with one another, but if I followed along with that, this video wouldn't exist because I would have given up. So, I go with something some may consider less accurate but gets the job done.
+
+Moreover, don't make it an ego thing to watch certain kinds of tutorials over others just because. Turns out, a lot of the things I needed to know were in Instagram reels.
