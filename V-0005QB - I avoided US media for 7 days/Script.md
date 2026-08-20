@@ -10,6 +10,16 @@
 > 
 > This will not apply to non-influencing creations like animated movies and music. Not that it matters much because I rarely watch movies to begin with, and the grand majority of my playlists are from Japanese producers.
 
+## Title candidates
+
+- "American media is everywhere. What does the rest of the world see?"
+
+- What does the internet look like without American media?
+
+- What the internet looks like without America's Megaphone
+
+- I avoided American Media for 30 days
+
 ## Script
 
 ### Intro
@@ -30,8 +40,6 @@ Let me make myself abundantly clear: I do **not** have anything against American
 
 \[\*\*\*Vine boom SFX on every creator listed, dramatic crying kneeling drawing meme on the last\]
 
-
-
 Anyway, here are the rules:
 
 **Rule #1:** I must skip a piece of content if I have ample reason to think it's from the US or by a US creator... duh.
@@ -48,13 +56,11 @@ And lastly, **rule #5**, if the content's origin is unidentifiable explicitly or
 
 With that out of the way, let's get this started.
 
-
-
 ### Setup
 
 I use YouTube the most, so we'll start with that. Here's what my feed looks like right now.
 
-I don't actually want to unsubscribe from American creators I normally do watch, so instead, I'll be watching on *this* channel. That's right, if you're a YouTube premium user, your premium status carries over to subchannels! *Don't make me regret telling you that.*
+I don't actually want to unsubscribe to Americans I normally do like watch, so instead, I'll be watching on my *second* channel. That's right, if you're a YouTube premium user, your premium status carries over to subchannels owned by the same account! *Don't make me regret telling you that.*
 
 For other platforms, I think I'll just continue using the same account and temporarily unfollow or skip on some creators 'cus I can't be bothered to make a new account for 'em, knowing of course that it's not going to be a full reset. But if I have it *my* way, maybe I should just stop using them altogether, I'm not sure yet; maybe I'll change my strategy as we go on.
 
@@ -73,5 +79,3 @@ I'm interested in seeing how much US-focused topics there are when it's the inte
 ### Observations
 
 ### Conclusion / Outro
-
-
