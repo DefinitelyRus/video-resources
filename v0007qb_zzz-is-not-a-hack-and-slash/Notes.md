@@ -6,71 +6,72 @@ If that title and thumbnail sounds ridiculous to you, you're in the right place.
 
 Obviously, *this* is a hack-and-slash. And so is this, and this, and this.
 
-But ask yourself: when does the game end? If you think "it doesn't, it's a live-service game", I will present you an argument that may convince you otherwise.
+But lemme ask: when does the game end?
 
-But first, we need to talk about **gameplay loops**.
+(Miku reads) *"It doesn't; it's a live service game!"*
 
----
+Yes... but the game **does** have a **technical** end, but it's not what you think.
 
-## Talking points
-
-- **Point A:** If ZZZ is not a hack-and-slash, then what is it?
-
-- **Point B:** When does ZZZ end?
-
-- **Point C:** What is a gameplay loop?
-
-- **Point D:** How come Zenless is a platform and not just a hack-and-slash?
-
----
+First, we need to talk about **gameplay loops**.
 
 ## Gameplay Loops (Draft)
 
-In game design, a gameplay loop can be split into 3 main parts: a starting condition, a challenge, and an end goal.
+In game design, a gameplay loop is when you have a starting condition, a challenge, and an end goal.
 
-In a game like&mdash;say&mdash;Counter-Strike, you start with some money to buy equipment, then you use that equipment to fight the opposing team, then one team succeeds in their goal while the other fails.
+Think of **any** game and you **will** find its gameplay loop.
 
-Regardless of who wins, the round ends and so does the gameplay loop.
+Take, for example, Counter-Strike 1.6: You start somewhere in a map with some money for equipment.
+Then, you use that equipment to stop the enemy team from completing their objective while also trying to complete yours.
+The round ends when either team completes their objective.
+There, we have a clear gameplay loop.
 
 But there's another layer to this.
 
-The round ended, but the match hasn't yet; there's another gameplay loop on top.
+You completed the round, but there's still the rest of the match&mdash;it'll only end once one team wins 16 times *or* both teams win 15 times, resulting in a draw.
+Essentially, there's a micro-loop&mdash;the round, and a macro-loop&mdash;the match.
 
-The match ends only when one team wins 13 rounds.
-
-Let's call each round a **micro-loop** while the entire match is the **macro-loop**.
+Forty or so minutes later, the match is over and you either feel satisfied, or defeated.
+You can leave the game here and consider the game to be *finished* in that there's no more overarching progress.
+For all intents and purposes, the game is over.
 
 ### Other examples
 
-Let's have other examples.
+Okay, let's have other examples.
 
-In Plants vs Zombies, a micro-loop ends when the level ends, and the macro-loop ends when Zomboss is defeated.
+In Plants vs Zombies, a micro-loop ends when the level ends, and the macro-loop ends when Dr. Zomboss is defeated, just like before.
 
-Same as before, and same for all these other games.
+In a visual novel like Paper Lily, it gets a little blurry; is a scene a micro-loop?
+Is a chapter a micro-loop?
+Or is the whole game just one big macro-loop?
 
-### Osu
+### Back to Counter-Strike
 
-How about Osu?
+Since we're questioning this, why don't we go back to Counter-Strike?
+While it is true that the game effectively ends when a match ends, you can always start another one.
+But, by that definition, you could also just restart the campaign on Plants vs. Zombies.
+What if there's a *bigger* loop&mdash;an extrinsic reason to play again?
+What if you got ranked based on your performance each game?
 
-You can win a level, you could get a perfect grade, you could even top the leaderbaord, but the game doesn't really "end".
+Now, does the game end here (match end)? Or here (rank-up)? Or here (highest rank)? Or even here (win a major)??
+It gets confusing, doesn't it?
 
-In this case, there is only one loop.
+So let's define it this way: a game ends when the player reaches a satisfactory extrinsic conclusion.
+Basically, when you're happy to finally put down the game for a while and maybe take a break.
 
-Once you finish the level, that's it.
-
-The loop ends there; you can choose to start another, or not.
+Under this definition, most CS players would consider ranking up as the end of the session as they've reached or gotten closer to their desired rank, and likely don't want to lose it immediately.
+Plants vs. Zombies remains unaffected as most players would still consider defeating Dr. Zomboss as the definitive end of the game.
 
 ### Minecraft
 
-Lastly, how about Minecraft?
+Let's have one last example: Minecraft.
 
-The loop ends when you defeat the Ender Dragon right?
+The loop ends when you defeat the Ender Dragon... right?
 
 Well, many have never even really played survival, let alone kill the dragon, and yet they've definitely played Minecraft, and a game isn't a game unless there's a gameplay loop, so what's the loop?
 
 ... There is none.
 
-Minecraft isn't exactly a game, but rather a toy.
+See, Minecraft isn't exactly a game, but rather a toy.
 
 Mini-games like Bedwars, Spleef, and Cops & Robbers do define a starting condition, a challenge, and an end goal, which Minecraft itself does not provide.
 
@@ -78,21 +79,83 @@ In that sense, Minecraft is merely a platform for mini-games.
 
 ### Where does ZZZ sit?
 
-Right, so where does Zenless sit in all this?
+So coming back from **all** of that, where does Zenless sit in all this?
 
 On one hand, we have the super linear multiplayer and story-focused games where the gameplay loop is clearly defined.
 
-Zenless has a pretty linear story, so it should belong here, right?
+Zenless has a pretty linear story, but it doesn't quite belong here, because the story hasn't ended yet.
 
-On the other hand, we have what's basically a game *platform* in which *mini*-games are built on top of.
+On the other hand, we have what's basically a game *platform* like Minecraft.
+But, see, Zenless doesn't fit in that either because&ndash; well, if it did, then GTA&mdash;the singleplayer&mdash;would also qualify as a platform, which breaks all the sense of categorization.
 
-Does Zenless fit in this too?
+What I know for sure is that Zenless is **not** a game platform.
+What it is, is a gacha game, and I think you may have overlooked what I meant by that.
 
-Yes, actually. And it's brought by the question from earlier: When does Zenless end?
+## Gacha games
+
+Gacha games are essentially games centered around getting a character or weapon or whatever through a luck-based "gacha" system.
+You spend a certain currency, you get a chance to get the thing that you want, or not.
+
+Now, I bring this up because&mdash;following the definition of a game end from earlier&mdash;the macro loop of a gacha game ends when you win the item that you want. That's it.
+
+(more here)
+
+Tell me "this isn't the end of the loop" (S-tier pull). *This* (basic mission-end reward menu) certainly ain't it. And if there is no *end* goal, I'm sorry, but nobody would be playing this if that was the case!
+
+Sure, you can build your characters after that, but that's *intrinsic*; the game didn't ask you to do that, **you** made yourself do that.
+
+Further, nearly **all** the various game modes and events are there purely just to serve one purpose, and that is to give you things to do to earn your precious, precious gacha currency.
+
+Now, don't get me wrong, none of this is inherently wrong or bad.
+It *does* make the game feel packed with content like you'll never run out of anything to do.
+The problem is that there's so much of it that it's genuinely overwhelming as a new or even returning player to catch back up with all the updates.
+
+If that's not bad enough, let me present you this comparison:
+Plants vs. Zombies takes all of about 8 hours to complete. 
+Tomb Raider takes about 11 hours.
+By the end of both of them, you've experienced most of what the game has to offer, and you can put it down and feel satisfied.
+In CS2, well, if ranking up is your goal, then it's plain indeterminate; it's based on who has the best wall hacks, after all.
+But with a gacha game like Zenless, it takes several **days to weeks** just to have a **guarantee** that you'll get the character or item that you want.
+
+And, when you get that character, you just keep on going because, what, you've got 'em and you're just gonna leave em as level 1?
+Moreover, don't you want that hottie on that upcoming banner? Better start saving up those Polychromes!
+
+(talk about having to play modes u dont like. not just for Polychrome, but also FOMO--e.g. free cosmetics, icons, titles, decors, rewards, etc.)
+
+*sigh*
+
+That's not even the worst of it.
+
+Remember how I said that it was overwhelming as a new or returning player?
+You know what's super easy to do?
+Going to the gacha banner.
+It's literally 1 click.
+Oh, want to buy a currency that you can convert to Polychromes? Just a few clicks and a credit card away, you're off to the races!
+Meanwhile, if you're a free-to-play, you spend days or weeks grinding instead of discovering other fun games that actually respect your time.
+
+Oh, if it wasn't clear yet, being able to buy Monochromes makes this game directly and overtly pay-to-win, literally and with no exaggeration.
+
+So you either spend an inordinate amount of money or an inordinate amount of time for some sexy pixels you'll get bored of in a matter of days.
+
+As I said in the intro, I didn't use Zenless as an example because I hate this game specifically, but rather because it's the one I wanted to like the most.
+
+See, Zenless is not my first gacha game; that would be Genshin Impact, a game I have since left for many reasons, much of which I'll discuss in another video. Zenless isn't even the second, as I've also played *and left* Honkai: Star Rail, Azur Lane, and Blue Archive.
+
+I had good hopes for Zenless, seeing how well-done the animations are in their trailers and how striking the game's visual theme is&mdash;I had hoped they found the problems that ultimately made me leave Genshin behind, and thought over the entire structure from the ground up to improve player experience.
+
+I even had my first playthrough recorded because I wanted to make a review of this game right when it came out, y'know, from a game developer's perspective.
+
+And, to be fair, there were definitely improvements, but I'm not convinced they *want* to fix the overly verbose dialogue or the "so hand-holdy that it's useless" tutorials or the myriad of other problems&mdash;all things I noticed on my very first playthrough up until today.
+
+Despite all that, well, I already have well over a hundred hours on Steam alone, and dammit, I'm gonna keep playing it until I'm sick of it.
+
+## 
 
 ---
 
 ## ZZZ as a platform (Draft)
+
+<!-- this part onward is part of the old draft. some parts will be included in the rewrite, but some, like the claim that zzz is a platform, will be cut -->
 
 We do know that the game doesn't end when you complete all the levels of any particular mode.
 

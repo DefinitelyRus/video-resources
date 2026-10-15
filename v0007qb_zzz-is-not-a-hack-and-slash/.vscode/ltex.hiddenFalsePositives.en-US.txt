@@ -1,0 +1,1 @@
+{"rule":"BORED_OF","sentence":"^\\QSo you either spend an inordinate amount of money or an inordinate amount of time for some sexy pixels you'll get bored of in a matter of days.\\E$"}
