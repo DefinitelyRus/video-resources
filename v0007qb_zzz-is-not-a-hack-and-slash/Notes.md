@@ -1,20 +1,66 @@
 # Zenless Zone Zero is not a Hack-and-Slash\*
 
-## Intro (Draft)
+Alternate title: Most players don't understand how Gacha games really work
 
-If that title and thumbnail sounds ridiculous to you, you're in the right place.
+## Intro
 
-Obviously, *this* is a hack-and-slash. And so is this, and this, and this.
+Zenless Zone Zero *is* a hack-and-slash... right?
 
-But lemme ask: when does the game end?
+Obviously, *this* is a hack-and-slash.
+<!-- this = combat simulation -->
 
-(Miku reads) *"It doesn't; it's a live service game!"*
+*This* is also a hack-and-slash, just, now, there are some roguelike elements to it.
+<!-- this = hollow zero -->
 
-Yes... but the game **does** have a **technical** end, but it's not what you think.
+This too, but as an extraction... slasher?
+<!-- this = periodic conquest -->
 
-First, we need to talk about **gameplay loops**.
+But, how about this? Or this? Or even this?
+<!--
+this = ...
+1. story progression (any voiced split-view dialogue)
+2. chores like collecting store revenue, scratching lucky ticket
+3. limited-time event
+-->
 
-## Gameplay Loops (Draft)
+Obviously, those *aren't* hack-and-slash.
+But in terms of total game time and, the sheer number of them, how come they're just as prevalent?
+
+Lastly, when does the game really *end*?
+I'd argue, it's both as simple and yet **as confusing**, than what you might think.
+
+We'll come back to that.
+First, we need to talk about gameplay loops.
+And bear with me, 'cus there's something so obvious yet so overlooked by so many people that will probably change how you look at Zenless and other games like it moving forward.
+
+## Gameplay Loops
+
+When designing a game, you must set a starting condition, an end goal, and a challenge that a player must overcome to reach said goal.
+
+Think of **any** game, and you will *probably* find its gameplay loop immediately.
+
+Take, for example, Plants vs. Zombies.
+You have a set of plants and an empty lawn&mdash;this is your starting condition.
+Your goal is to reach the end of the day&mdash;or night&mdash;as indicated by this bar. <!-- this = level progress bar -->
+However, zombies want your brain!
+**If** they get that, **and** it exists, you will die!
+So, to stop them, you must collect sun to put down plants that protect your lawn from zombies and therefore your brain.
+
+Congratulations, you're now equipped with the knowledge of how to survive a day&mdash;or night&mdash;against zombies.
+And with it, you have finished a level of Plants vs. Zombies.
+
+<!-- VFX: A jpeg of people clapping, SFX: generic applause -->
+
+## Macro and micro loops
+
+Miku: "That's only a level, though. And there's 50 of them!"
+
+That's right, Hatsune Mike.
+It's because
+
+Wait, just a day? There's more?
+
+Yes, there's more! Obviously!
 
 In game design, a gameplay loop is when you have a starting condition, a challenge, and an end goal.
 
@@ -93,6 +139,118 @@ What it is, is a gacha game, and I think you may have overlooked what I meant by
 
 ## Gacha games
 
+---
+
+Normally, you'd think that Zenless is a hack-and-slash with gacha mechanics, but no!
+It's the other way around!
+
+Zenless is a gacha game with hack-and-slash gameplay, **and** visual novel, **and** roguelike, **and** extraction... whatever you wanna call this&ndash;
+
+The point being; we normally think of "gacha" as merely a means to get a better character or equipment through luck-based mechanics, but, in actuality, gacha games **are** "gacha" "games"!
+
+The whole thing centers around the gacha mechanic.
+
+## How they sell themselves
+
+Don't believe me? Well, you don't have to; the game companies themselves prove my point.
+
+Here are examples from 3 different games from 3 different publishers and in 3 different non-gacha game genres.
+
+For the most part, they sell the game for the merits of the game: its gameplay mechanics, story, environments, and more sensory things like visual aesthetics and great music.
+
+You are shown what the **game** has to offer that sets it apart from other similar games.
+
+In contrast, here's how these 3 *gacha* games sell themselves.
+<!-- Text: I chose these as they're ones I have played at some point. -->
+
+They focus a ton on the story, animations & design, and critically, the characters themselves.
+
+As for gameplay details... well...
+
+Blue Archive seems to vaguely describe the gameplay in 2, maybe 4 sentences, and much less for Azur Lane.
+<!-- Visual: Show Blue Archive Steam store page description. -->
+<!-- Visual: Show Azur Lane images on Play Store. (Has 3-4 words per image.) -->
+<!-- Note about Blue Archive: They have a gameplay preview, which does show what a live gameplay looks like, but still doesn't show what makes the gameplay itself special. Add this as a text. -->
+<!-- Note about Azur Lane: TBF, you can only fit so many words in an image before people start just ignoring it. Add this as a text. -->
+
+Zenless character trailers do show the animations, but doesn't tell you anything about them.
+Is this the character's special? What does it do? 
+
+These trailers do a subjectively good job of enticing me to get this character.
+The reason for it is that they looked good, or had a nice voice, or had cool animations, or had an interesting story, but I still have no idea what this character *does* in a given team. <!-- Visual: A character trailer. -->
+Well, that's for you to read an entire essay about! <!-- Visual: A clip scrolling through a detailed explanation of what a single character ability does. -->
+
+<!-- This TF2 comparison segment may be subject to removal as it doesn't add to the conversation at large, and is instead a critique of the trailer itself. -->
+
+You know what game *did* do a good&ndash;no, **great** job at showing me what the character is like *while* informing me what said character does *in the game*?
+
+<!-- Cut to "Meet the Soldier" (TF2) intro -->
+
+<!-- Cut to boot camp scene. -->
+<!-- Text: Stereotypical war addicted soldier -->
+
+<!-- Cut to relevant combat scene. -->
+<!-- Text: Uses a rocket launcher. Can rocket jump. Has a shotgun. Has a shovel as melee. -->
+
+<!-- Cut to relevant combat scene. -->
+<!-- Text: Can rocket jump. -->
+
+<!-- Cut to relevant combat scene. -->
+<!-- Text: Has a shotgun as a secondary. -->
+
+<!-- Cut to relevant combat scene. -->
+<!-- Text: Has a shovel as a melee -->
+
+<!-- Cut to back to beheaded BLU heads scene. -->
+<!-- Text: He's a total maniac -->
+
+## Why does this matter?
+
+Coming back to the whole gacha discussion, why does this matter?
+
+Why am I going so far to prove my point that these games are gacha and not a hack-and-slash, or a strategy game, or a side-scroller.
+
+Well, I want you to look at the other common theme among these games: they all involve upgrading your character.
+
+And, yeah, that's fine and all, but the process of upgrading is always, **always** complex and convoluted.
+
+See how each of these stat categories consume a different item each? 
+
+notice that the 3 games i mentioned are all RPGs of some sort--you upgrade ur characters and all of them have convoluted upgrade systems. artificially increases playtime while creating the illusion that ur progressing cus each category of upgrade requires a different item or currency
+
+
+
+Then, here are 3 more examples of *gacha* games from various publishers and sub-genres.
+I'm using these as examples because they're the ones I have played before.
+
+<!-- the point is that if they *were* the sub-genre they're touted to be, how come they focus so little on selling what makes the **gameplay** fun? -->
+
+The majority of the marketing videos in the Zenless YouTube channel are about the characters, *not* the things to do *using* said characters.
+And if you watch just about any of them, you get a preview of all the incredible animations and sound design.
+But, this game's also an RPG, and those attacks probably have more effects than just deal raw damage. Where's the info on all that?
+
+Blue Archive's Steam page has 2&mdash;*maybe* 4 sentences that vaguely describe the actual gameplay&mdash;the things you'll be doing in the game.
+They at least have a video gameplay preview.
+And in fairness, you pretty much get the gist of what the game will actually be like.
+
+For Azur Lane, they have "collect and evolve" and "take your fleet into battle", and a couple gameplay screenshots.
+
+
+Basically, they sell you on what the **game** has to offer that other similar games don't.
+
+With
+
+If you look through their marketing material, the information you get is "what kind of character do they have to offer?"
+There's of course lore, and 
+
+How come that the grand majority of their marketing material centers around the characters?
+I don't mean in terms of gameplay, I *mean* **the** characters themselves.
+Some have entire music videos for **that** specific character, 
+
+(tf2 meet the team comparison)
+
+---
+
 Gacha games are essentially games centered around getting a character or weapon or whatever through a luck-based "gacha" system.
 You spend a certain currency, you get a chance to get the thing that you want, or not.
 
@@ -155,7 +313,7 @@ Despite all that, well, I already have well over a hundred hours on Steam alone,
 
 ## ZZZ as a platform (Draft)
 
-<!-- this part onward is part of the old draft. some parts will be included in the rewrite, but some, like the claim that zzz is a platform, will be cut -->
+<!-- this part onward is part of the old draft. i kept it here cus there may be some details that i can include in the updated draft above -->
 
 We do know that the game doesn't end when you complete all the levels of any particular mode.
 

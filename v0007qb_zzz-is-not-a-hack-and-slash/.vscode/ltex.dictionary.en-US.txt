@@ -2,3 +2,4 @@ gacha
 singleplayer
 Zenless
 Gacha
+Azur
