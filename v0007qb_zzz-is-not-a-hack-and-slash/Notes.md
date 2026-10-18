@@ -4,91 +4,216 @@ Alternate title: Most players don't understand how Gacha games really work
 
 ## Intro
 
-Zenless Zone Zero *is* a hack-and-slash... right?
+It would be an insane thing to say that you win the game of Zenless Zone Zero by successfully pulling the banner character you wanted, right?
+
+I mean, this gacha mechanic is *just a part* of Zenless; clicking a button barely even qualifies as a winning condition.
+
+After all, Zenless is a hack-and-slash that happens to have a gacha mechanic.
+That's where you get stronger character so you can complete harder challenges!
+
+*But is it, though?*
 
 Obviously, *this* is a hack-and-slash.
-<!-- this = combat simulation -->
+<!-- VIS: Combat simulation gameplay -->
 
-*This* is also a hack-and-slash, just, now, there are some roguelike elements to it.
-<!-- this = hollow zero -->
+This is *also* a hack-and-slash, just, now, there are some roguelike elements to it.
+<!-- VIS: Hollow zero gameplay -->
 
-This too, but as an extraction... slasher?
-<!-- this = periodic conquest -->
+This *too*, but as an extraction... slasher?
+<!-- VIS: Periodic Conquest gameplay -->
+<!-- TEXT: extraction ~~shooter~~ slasher -->
 
 But, how about this? Or this? Or even this?
 <!--
-this = ...
+VIS:
 1. story progression (any voiced split-view dialogue)
 2. chores like collecting store revenue, scratching lucky ticket
 3. limited-time event
 -->
 
-Obviously, those *aren't* hack-and-slash.
-But in terms of total game time and, the sheer number of them, how come they're just as prevalent?
+Obviously, *those* **aren't** hack-and-slash.
 
-Lastly, when does the game really *end*?
-I'd argue, it's both as simple and yet **as confusing**, than what you might think.
+But they're also clearly part of the game, **very** prominent ones at that.
+<!-- Add this somewhere else: So prominent, in fact, that they take up approximately **half** the total game time of an average session, assuming of course that you actually read through them. -->
+
+Lastly, when someone plays a game, they have an end goal they want to accomplish.
+Otherwise, they simply won't play the game.
+
+So, what really *is* the end goal in Zenless Zone Zero?
+I'd argue, it's both simpler and yet *more confusing*, than what you might think.
+And once you see the bigger picture, you might never see gacha the same way again.
 
 We'll come back to that.
-First, we need to talk about gameplay loops.
-And bear with me, 'cus there's something so obvious yet so overlooked by so many people that will probably change how you look at Zenless and other games like it moving forward.
 
 ## Gameplay Loops
 
-When designing a game, you must set a starting condition, an end goal, and a challenge that a player must overcome to reach said goal.
+First, we need some context.
+
+When designing a game, you **must** set a starting condition, an end goal, and a challenge that a player **must** overcome to reach said goal.
+When combined, these three form what's called a *gameplay loop*.
 
 Think of **any** game, and you will *probably* find its gameplay loop immediately.
 
-Take, for example, Plants vs. Zombies.
+Take a classic for example: Plants vs. Zombies.
+
 You have a set of plants and an empty lawn&mdash;this is your starting condition.
+
 Your goal is to reach the end of the day&mdash;or night&mdash;as indicated by this bar. <!-- this = level progress bar -->
-However, zombies want your brain!
-**If** they get that, **and** it exists, you will die!
-So, to stop them, you must collect sun to put down plants that protect your lawn from zombies and therefore your brain.
 
-Congratulations, you're now equipped with the knowledge of how to survive a day&mdash;or night&mdash;against zombies.
-And with it, you have finished a level of Plants vs. Zombies.
+*But*, the zombies want your brain!
+**If** they reach your house, you will die!
 
+So, to stop them, you put down plants that protect your lawn from zombies and therefore your brain.
+
+There. We have a starting condition, an end goal, and a challenge&mdash;a complete gameplay loop that takes all of about 3&ndash;10 minutes each.
+
+## Micro and macro loops
+
+But the game's not over.
+The zombies will come back tomorrow.
+
+So, you do it again, and again, *and again*, until you defeat Dr. Zomboss.
+
+At which point, you have essentially *finished the game*! Congratulations!
 <!-- VFX: A jpeg of people clapping, SFX: generic applause -->
 
-## Macro and micro loops
+But look: if you inspect the game **less** closely, you start to see an overarching gameplay loop!
 
-Miku: "That's only a level, though. And there's 50 of them!"
+There's a starting condition, an end goal, and a challenge to overcome, that wraps all the levels together!
+<!-- VIS:
+- starting condition: front lawn gameplay
+- challenge: zombies attacking from different fronts / time of day
+- goal: defend until you can defeat zomboss
+-->
 
-That's right, Hatsune Mike.
-It's because
+With this, can call each level a *micro loop*, and when you finish it, you progress towards your **macro** loop.
 
-Wait, just a day? There's more?
+## Undefined goals
 
-Yes, there's more! Obviously!
+### Osu!
 
-In game design, a gameplay loop is when you have a starting condition, a challenge, and an end goal.
+But that's only so clear for linear games like Plants vs. Zombies or Call of Duty.
 
-Think of **any** game and you **will** find its gameplay loop.
+How about, say, osu!? ... /os/?
+I dunno...
 
-Take, for example, Counter-Strike 1.6: You start somewhere in a map with some money for equipment.
-Then, you use that equipment to stop the enemy team from completing their objective while also trying to complete yours.
-The round ends when either team completes their objective.
-There, we have a clear gameplay loop.
+Anyway, we know what the start condition and the challenge are, but what's the overarching end goal?
+Does it even need one?
 
-But there's another layer to this.
+For many people, getting a high-score or an S or a **double** S is enough of a goal.
+For others, it may be having a longer&ndash; I mean, *higher* PP score.
+As for me, I just try to reach A consistently on higher and higher difficulties.
 
-You completed the round, but there's still the rest of the match&mdash;it'll only end once one team wins 16 times *or* both teams win 15 times, resulting in a draw.
-Essentially, there's a micro-loop&mdash;the round, and a macro-loop&mdash;the match.
+In this case, the overarching goal is **effectively** *up to you*.
 
-Forty or so minutes later, the match is over and you either feel satisfied, or defeated.
-You can leave the game here and consider the game to be *finished* in that there's no more overarching progress.
-For all intents and purposes, the game is over.
+### Minecraft
 
-### Other examples
+Lastly, what about Minecraft?
 
-Okay, let's have other examples.
+<!-- VO: Savy -->
 
-In Plants vs Zombies, a micro-loop ends when the level ends, and the macro-loop ends when Dr. Zomboss is defeated, just like before.
+Oh! Oh! You stab the Ender Dragon and get the egg!
+Then, the credits roll!
 
-In a visual novel like Paper Lily, it gets a little blurry; is a scene a micro-loop?
-Is a chapter a micro-loop?
-Or is the whole game just one big macro-loop?
+<!-- VO: Rus -->
+
+That **is** valid, but that's only the *pre-included* way to play Minecraft.
+
+Many, if not **most** players have **never** wholeheartedly played survival, let alone defeated the Ender Dragon, and yet it's still the best-selling game ever.
+
+<!-- VO: Savy -->
+
+But if there's no goal, people wouldn't play it, because it wouldn't be a game because there's no gameplay loop!
+
+And it's the best-selling game? This doesn't make any sense!
+
+<!-- VO: Rus -->
+
+But **that's exactly it!**
+
+Minecraft isn't really a *game*, but more so a *toy*, or better known as a *sandbox*.
+See this video that explains this in greater detail.
+
+The actual games that have a gameplay loop are custom maps like Herobrine's Mansion and Cops & Robbers, entire modes like Bedwars, or modpacks like Feed the Beast.
+
+All of which have a valid gameplay loop that Minecraft itself does not offer.
+
+Even survival mode counts as one, it's just that the end goal is both quite difficult and trivially easy, so it's pretty easy to ignore.
+
+## ZZZ's true overarching goal
+
+So, where does Zenless sit in all this?
+
+<!-- VO: Savy -->
+
+The game's a live-service, and the story isn't even done yet, so there's no way to actually "finish" the game.
+
+You can complete the different modes though!
+That counts for something, right?
+
+<!-- VO: Rus -->
+
+That **is** an excellent point; perhaps the players' goals are to simply complete all the modes, or at least the ones they want to finish.
+
+But *that* doesn't sound right.
+Sure, there are players who do play Zenless because they're genuinely engaged with the lore, or maybe they like particularly challenging modes, but I find it difficult to believe that **that**'s what brings **most** players to this game.
+
+### Another perspective
+
+If the end goal isn't clear, then what incentivizes players to keep going?
+
+Rewards.
+
+Follow the rewards.
+
+So, if you complete a chapter in the story, what do you get?
+
+<!-- VO: Savy -->
+
+Some Polychrome, Dennies, XP, and various upgrade materials.
+
+<!-- VO: Rus -->
+
+Okay, how about a limited-time event, what do you get?
+
+<!-- VO: Savy -->
+
+The same things, plus some other special items, maybe a free skin.
+
+<!-- VO: Rus -->
+
+How about all the modes offered in the Hollow Outpost? What do you get from them?
+
+<!-- VO: Savy -->
+
+Uhh, character upgrade materials... special currency... more Polychrome...
+
+<!-- VO: Rus -->
+
+So in just about *any* mode, you get some XP, Dennies, maybe some upgrade materials and special currency.
+
+For non- or semi-renewable modes&mdash;like Shiyu Defense and the main story, you get more of the same, and critically, Polychromes.
+
+And why are Polychromes so important?
+Because it's what you use to buy these rainbow duct tapes, which is what you consume when you pull on a banner.
+
+People play this game, because they want to get the hot new character!
+
+The overarching goal is to get the character!
+
+The starting condition is *not having that character*, and the challenge is to gain enough Polychromes to be lucky enough, or pitied enough that you finally get your desired character.
+
+Which means that, yes, you win **or lose** the game of Zenless Zone Zero, by pulling the gacha machine.
+
+**All** of those modes are merely ways in which you can accomplish that goal.
+
+Upgrading your characters are also part of the goal, because remember: better characters have a better chance against tougher enemies, and which modes offer the most Polychrome per level? The hardest ones, of course&mdash;and they refresh every week, with a different set of weaknesses and resistances, so you **have** to keep upgrading new characters.
+
+That's why you get upgrade items alongside the Dennies and Polychromes.
+
+## Why is this important
+
+
 
 ### Back to Counter-Strike
 
@@ -110,6 +235,10 @@ Plants vs. Zombies remains unaffected as most players would still consider defea
 ### Minecraft
 
 Let's have one last example: Minecraft.
+
+
+
+
 
 The loop ends when you defeat the Ender Dragon... right?
 
@@ -214,7 +343,9 @@ Well, I want you to look at the other common theme among these games: they all i
 
 And, yeah, that's fine and all, but the process of upgrading is always, **always** complex and convoluted.
 
-See how each of these stat categories consume a different item each? 
+See how each of these stat categories consume a different item each?
+When you complete upgrading that category, you get a nice little dopamine hit.
+In Zenless, you must collect 9
 
 notice that the 3 games i mentioned are all RPGs of some sort--you upgrade ur characters and all of them have convoluted upgrade systems. artificially increases playtime while creating the illusion that ur progressing cus each category of upgrade requires a different item or currency
 

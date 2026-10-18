@@ -1,2 +1,3 @@
 {"rule":"BORED_OF","sentence":"^\\QSo you either spend an inordinate amount of money or an inordinate amount of time for some sexy pixels you'll get bored of in a matter of days.\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QHere are examples from 3 different games from 3 different publishers and in 3 different non-gacha game genres.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q... /os/?\\E$"}
