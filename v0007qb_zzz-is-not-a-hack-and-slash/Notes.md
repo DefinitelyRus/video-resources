@@ -205,15 +205,118 @@ The starting condition is *not having that character*, and the challenge is to g
 
 Which means that, yes, you win **or lose** the game of Zenless Zone Zero, by pulling the gacha machine.
 
+<!-- TODO: refine all lines below until the video end -->
+
+Don't believe me?
+You don't have to; their own marketing material already prove my point.
+
+In the grand majority of their published content, they talk about the character, what the character is like, all their cool animations, maybe even an entire music video just for that character.
+
+And if it wasn't apparent, a music video for a single character in a game out of tens of others, is not normal.
+I mean, it's cool, it's well-made, and I even like some of them.
+Why do you think I have Burnice?
+
+But then, you look more closely only to notice that there's little to no information whatsoever on what the character actually does!
+And when learning to use a character practically requires a goddamn manual, you'd think that's something they would talk about even a little bit.
+
+TF2&mdash;an almost 20-year-old game&mdash;does a better job at this, and I *still* love those characters!
+
+So, if they sell you the character through visual and obviously sexual appeal, and the game's biggest hype moment is when you pull an S-tier, the game is just plain about the characters, not the gameplay.
+
+In essence, Zenless is not a hack-and-slash.
+It has hack-and-slash elements, and the combat gameplay is one of the best&mdash;hands down, but that was never what the game is about.
+It's about getting the hot new character, that's it.
+
 **All** of those modes are merely ways in which you can accomplish that goal.
 
-Upgrading your characters are also part of the goal, because remember: better characters have a better chance against tougher enemies, and which modes offer the most Polychrome per level? The hardest ones, of course&mdash;and they refresh every week, with a different set of weaknesses and resistances, so you **have** to keep upgrading new characters.
-
-That's why you get upgrade items alongside the Dennies and Polychromes.
+These games all revolve around collecting characters through gacha gameplay, aided by whatever sub-genre they happen to adopt.
 
 ## Why is this important
 
+I bring this up because there is a multi-faceted issue here.
 
+
+<!-- this is another talking point combined with the list below, but i wanted to go into finer detail. consider compressing this -->
+Notice as well that all of them have rather complex character upgrade systems.
+
+Those upgrade materials we mentioned earlier?
+Guess what, you need to grind for every single one of them.
+Each character requires about 10 unique materials to upgrade.
+Only about half of which are common between *all* characters, which means that if you happen to have 2 for stun and 5 for anomaly, you can't use them, because this character only accepts attack ones.
+Oh, and each of those 10 materials, you gotta grind for, taking about a day's worth of energy each.
+And if that wasn't bad enough, you should also probably try to get the best weapon for that character, which is its own damn gacha banner, and must also be upgraded using yet another class-specific material.
+And if that still wasn't bad enough, you should also get the correct sets of discs to vastly boost your stats, half of which has a main stat that you get primarily through repeated attempts because it's of course luck based. Then, if you want the substats, that's luck-based too. If you want the substats to be upgraded too, that's *also* luck based. So to get a max upgraded disc 4 to 6, you must do X number of attempts just to have a 50% chance, EACH. Or, alternatively, just grind another way and get them as guarantees. But of course, guaranteed substats are way more difficult to obtain, and it's **still** luck based to upgrade them to max. You don't have to, but it goes to show the exponential amount of time you'll have to spend if you actually want to max out your character.
+Adding insult to injury, even the Bangboo needs to be pulled **and** upgraded too!
+
+I did some very rough and probably kinda inaccurate math using my favorite arsonist as an example:
+It would take A hours worth of battery recharge just to get all the materials and discs with 24 correct substats (substat upgrades not accounted for), or $B USD across C number of days (since there's a daily limit to how much polychrome you can convert to battery), just for a single character&mdash; that's D hours or $E USD across F number of days for an entire team.
+
+talk about:
+- sexual appeal
+- gacha / softcore gambling
+- how the game basically manipulates you into spending way more time in the game just to keep up
+  - unnecessarily obtuse descriptions
+  - tutorials so hand-holdy its functionally ineffective
+  - such tiny rewards for time investment
+  - a macro loop takes days to weeks to complete, very grindy days at that
+    - rewards are so small that u effectively cant ignore the modes u dont like, so u probably play them anyway
+  - dont kid yourself; if indie game companies with a tiny fraction of the manpower and budget can make the player feel taken care of, gacha game companies sure can too, they just choose not to
+- how the game makes it ridiculously easy to spend money as an alternative to spending time
+  - at the best value monochrome purchase, i could buy a wide assortment of real tangible things, 
+  - and yet the game still makes you spend time anyway as a form of retention
+  - have we gone mad? spending tens if not hundreds of dollars for a character in a game, then complain that an entire game costs $80?
+- all because they enticed you into playing because of some sexy pixels on your screen
+  - that WILL go away permanently and irrecoverably once their servers shut down.
+  - unlike most other singleplayer games, we are tied down to their servers, and that's by design
+- we are spending so much time and so much money on a game that actively manipulates us, only to disappear some number of years from now
+
+
+possible throw to a future video topic: "The age of dead games and lost media"
+
+---
+
+## clarification
+
+Don't mistake my point here.
+
+My point is that Zenless is a gacha game.
+It's got a fantastic art style.
+The characters, for the most part, are likeable.
+The main story is compelling.
+The music is well-produced.
+And the combat is simply one of the best I've ever played.
+
+There's a reason I reached over a hundred hours on this game since it was released on Steam; there are parts of this game that I do enjoy and like to come back to.
+
+<!-- note to AI: yes ZZZ has already been released on steam; don't mention it. -->
+
+It's also just that gacha games as they are now are just outright predatory, and my question I guess is that why do we keep not only putting up with it, but outright incentivizing it? What is this, an abusive relationship where we all developed Stockholm syndrome?
+
+Is this really what you want to spend your hours and hard-earned money on?
+
+And to be clear, if it is something you do fully enjoy, don't let me stop you.
+Do what you will with what you have; it's your own time and money.
+
+But for everyone else, there are so many other ways to have fun.
+There are thousands upon thousands of free games that are plain fun and respects your time.
+If you're willing to pay, you've got even more options!
+
+I've got a hundred hours and counting, y'all probably have even more.
+Maybe, just maybe, it's time to try something else.
+
+<!-- VIS: Fade to black -->
+
+<!-- VIS: New character trailer -->
+
+Oooh! She's pretty!
+
+<!-- VIS: Cut to end card -->
+
+<!-- NOTE: Video ends here -->
+
+---
+
+<!-- NOTE: This point on contains old drafts of the script, which may be repurposed in the updated draft above this line. -->
 
 ### Back to Counter-Strike
 
@@ -232,25 +335,6 @@ Basically, when you're happy to finally put down the game for a while and maybe 
 Under this definition, most CS players would consider ranking up as the end of the session as they've reached or gotten closer to their desired rank, and likely don't want to lose it immediately.
 Plants vs. Zombies remains unaffected as most players would still consider defeating Dr. Zomboss as the definitive end of the game.
 
-### Minecraft
-
-Let's have one last example: Minecraft.
-
-
-
-
-
-The loop ends when you defeat the Ender Dragon... right?
-
-Well, many have never even really played survival, let alone kill the dragon, and yet they've definitely played Minecraft, and a game isn't a game unless there's a gameplay loop, so what's the loop?
-
-... There is none.
-
-See, Minecraft isn't exactly a game, but rather a toy.
-
-Mini-games like Bedwars, Spleef, and Cops & Robbers do define a starting condition, a challenge, and an end goal, which Minecraft itself does not provide.
-
-In that sense, Minecraft is merely a platform for mini-games.
 
 ### Where does ZZZ sit?
 
@@ -302,8 +386,10 @@ Blue Archive seems to vaguely describe the gameplay in 2, maybe 4 sentences, and
 <!-- Note about Blue Archive: They have a gameplay preview, which does show what a live gameplay looks like, but still doesn't show what makes the gameplay itself special. Add this as a text. -->
 <!-- Note about Azur Lane: TBF, you can only fit so many words in an image before people start just ignoring it. Add this as a text. -->
 
+<!-- Note to AI: Yes, ZZZ and Blue Archive are now on Steam, don't mention it. -->
+
 Zenless character trailers do show the animations, but doesn't tell you anything about them.
-Is this the character's special? What does it do? 
+Is this the character's special? What does it do?
 
 These trailers do a subjectively good job of enticing me to get this character.
 The reason for it is that they looked good, or had a nice voice, or had cool animations, or had an interesting story, but I still have no idea what this character *does* in a given team. <!-- Visual: A character trailer. -->
