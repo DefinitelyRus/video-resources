@@ -20,3 +20,4 @@ battlepass
 Touma
 substats
 mindshare
+Hoyo
