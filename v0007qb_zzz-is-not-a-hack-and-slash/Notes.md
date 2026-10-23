@@ -189,7 +189,7 @@ Then, a lot of the time, only **then** do they find a purpose for said character
 **These** are products!
 And you win the game of gacha when you get these products.
 
-All these modes are just a means to accomplish exactly that!
+All these modes are just micro loops; they're just a means to accomplish the macro loop that is the gacha system!
 
 ## Method A: Grind
 
