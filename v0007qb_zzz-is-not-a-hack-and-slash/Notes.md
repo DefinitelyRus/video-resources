@@ -40,6 +40,7 @@ VIS:
 
 Obviously, *those* **aren't** hack-and-slash.
 But they're also core parts of the game.
+Unlike alternate modes in other games, these are played just as much as the core modes.
 <!-- Add this somewhere else: So prominent, in fact, that they take up approximately **half** the total game time of an average session, assuming of course that you actually read through them. -->
 
 Lastly, games are just neatly wrapped challenges.
@@ -94,7 +95,7 @@ There's a new starting condition, an end goal, and a challenge to overcome, that
 - goal: defend until you can defeat zomboss
 -->
 
-So with this, can call each level a *micro loop*, and when you finish it, you progress towards your **macro** loop.
+So with this, we can call each level a *micro loop*, and when you finish it, you progress towards your **macro** loop.
 
 ## Undefined goals
 
@@ -110,13 +111,15 @@ Does it even need one?
 
 For many people, getting a high-score or an S or a **double** S is enough of a goal.
 
-For others, it may be having a *\~larger\~* PP score.
+For others, it may be having a *\~larger\~* PP... score.
 
 As for me, I just try to reach A consistently on higher and higher difficulties on songs I like.
 
 So for this game, the overarching goal is **effectively** up to you.
 
-In the case with something like Minecraft, the actual game isn't *Minecraft*, it's Bedwars, Survival, Cops & Robbers, Feed the Beast&mdash;Minecraft itself doesn't provide the gameplay loop, these do&mdash;that's why people play Minecraft.
+In the case with something like Minecraft, the actual game isn't *Minecraft*, at least in a technical sense.
+
+That would be Bedwars, Survival, Cops & Robbers, Feed the Beast&mdash;Minecraft itself doesn't provide the gameplay loop, these do&mdash;that's why people play Minecraft.
 
 ## ZZZ's true overarching goal
 
@@ -155,7 +158,7 @@ Notice how the video shows you how cute or cool or sexy these characters are, ho
 
 They want you to **love** these characters **so much** that you'll go play the game just to have them in your roster.
 
-It doesn't even matter if the use of these characters are any fun, because the fun comes from the act of collecting, building, and ultimately using them.
+It doesn't even matter if the use of these characters are any fun, because the fun comes from the act of collecting, building, and ultimately using them, even in other games!
 
 I mean, Zenless and Genshin have quite an engaging combat and world exploration if I do say so myself, so good on them for that.
 
@@ -173,11 +176,26 @@ Enterprise was.
 <!-- VIS: Enterprise png -->
 <!-- SFX: Enterprise voice line "Owari da!", distorted -->
 
+That same point carries across all the gacha games I've played: it's all about the character.
+
+They talk about which characters they like, they share fan art, **make** fan art.
+
+They do commissions, skip through dialogue, skip banners, anything just to save up for their desired character.
+
+And, they get excited when they finally **do** get them.
+
+Then, a lot of the time, only **then** do they find a purpose for said character because the player got them for who the character is, and not for what they're capable of&mdash;a green flag for dating, not so much for those looking to win in **combat**.
+
+**These** are products!
+And you win the game of gacha when you get these products.
+
+All these modes are just a means to accomplish exactly that!
+
 ## Method A: Grind
 
-Right, then, if getting the characters is the point, then how does one obtain these characters?
+Which I guess leads me right onto *how* to obtain these characters.
 
-There's a good chance you already know how if this video was recommended to you, but there's value in knowing *exactly* how.
+There's a good chance you already know how if this video was recommended to you, but there's a value in knowing *exactly* how.
 
 Almost universally in just about any gacha game, there are 2 main ways.
 
@@ -203,7 +221,7 @@ Not to worry; there are recurring sources too, like:
 
 Though realistically, those only give a few at a time, so that won't cut it.
 
-If you want more, *these* are your best bet, although 2 of them require your strongest teams.
+If you want more, *these* are your best bet, although 2 of them require your strongest teams&mdash;more of those later.
 
 <!-- VIS: Shiyu Defense, Deadly Assault, Hollow Zero, Limited-time events -->
 
@@ -242,6 +260,27 @@ That is to say, you would have spent 80 pulls, or **12,800** Polychrome, or **X 
 
 So if lost that 50/50, winning isn't actually winning, because you haven't won *enough*.
 
+<!-- VO: Savy -->
+
+You don't have to engage with the gacha mechanic you know?
+
+<!-- VO: Rus -->
+
+Well, I can go ahead and play Assassin's Creed: Black Flag and only play the ship battle parts, in a game that sells itself as about assassins.
+
+Let me just play the gacha game and not do the gacha part.
+
+Yeah, totally valid, except that's not how the designers meant for you to play, and that's not how most people play it!
+
+<!-- VO: Savy -->
+
+Sorry...
+
+<!-- VO: Rus -->
+
+No, no, not you!
+I made you say that. (chuckle)
+
 ### Upgrading characters
 
 Unless you've been playing the game for so much that you already have max level **teams**, you probably only get a portion of your weekly rewards.
@@ -276,7 +315,7 @@ That's 320 per 24-hour period.
 
 However, you only get this many of each material for every 20 battery consumed.
 
-Which means, assuming you start with no items playing at the highest difficulties with the best rewards, you would need&mdash;at minimum&mdash;X battery or Y days worth of recharge, just to collect the materials for Burnice *alone*, **on her trial build**, and that doesn't even include the discs themselves because 3 main stats and 24 substats and its upgrades are random so the time to get them could be 5 minutes to 5 months, if you have Touma's luck.
+Which means, assuming you start with no items playing at the highest difficulties with the best rewards, you would need&mdash;**at minimum**&mdash;X battery or Y days worth of recharge, just to collect the materials for Burnice *alone*, **on her trial build**, and that doesn't even include the discs themselves because 3 main stats and 24 substats and its upgrades are random so the time to get them could be 5 minutes to 5 months, if you have Touma's luck.
 
 <!-- VIS: Touma from Toaru Majutsu no Index getting into yet another accident -->
 
@@ -284,13 +323,17 @@ And you have to do this for 2 more characters to complete the team!
 
 Oh, and don't forget, you still gotta have the best W-Engine that works for her **specifically**, from its own separate banner, or at least the best one you can manage.
 
-Also, both the character *and* the W-engine can be gained multiple times to further reach their potential, which I generally just ignore.
+Remember those 2 modes I mentioned earlier?
 
-## Time investment
+The difficulty scaling on those ramp up so much that it's virtually impossible to 100% beat unless you've practically fully maxed out 2&ndash;3 teams, with their signature W-Engines, and their duplicates, which&mdash;I reiterate&mdash;takes anywhere from 12,000 to 14,000 Polychrome **each**, just for an S-rank guarantee, not even the exact one you want.
+
+So, the largest weekly-recurring sources of Polychrome are virtually inaccessible for anyone but the most diehard of players.
+
+### Time investment
 
 In their defense, limited-time events and activity rewards tend to lessen the grind significantly, but I need to put something in context here.
 
-A CS2 match takes anywhere from 30 minutes to an hour for its macro loop&mdash;a regular competitive match.
+A CS2 match takes anywhere from 30 minutes to an hour for its macro loop to finish&mdash;a regular competitive match.
 
 Plants vs. Zombies takes about 9 hours to complete levels 1 to 50.
 
@@ -312,22 +355,26 @@ Whereas the games I listed let you just play whenever, and for however long you 
 
 You can't do that in Zenless; you must play at least once a day and do your dailies and weeklies, and then leave for the day when you've got nothing else to do.
 
-They know it's harder to get you back the longer you leave the game, so they push you out the door once you've caught up to prevent burnout, yet expect you to form a routine to come right back.
+**They know** it's harder to get you back the longer you leave the game, so they push you out the door once you've caught up to prevent burnout, yet expect you to form a routine to come right back.
 
 That's why there are so many kinds of materials, only a few of which are common among your characters.
 And the counts are small enough that they're attainable within a couple of days, but a couple of days is still a couple of days.
 
-Even ad-infested mobile games and other live service titles aren't this predatory.
+That's why there are so many different modes, so you don't get bored with playing the same one over and over.
+
+Those aren't necessarily bad things in isolation, but when the goal is to lock you in for as long as possible, it becomes outright disrespectful for your time.
+
+Even some ad-infested mobile games and other live service titles aren't this predatory.
 
 Mobile games are usually free because no one wants to pay for the game upfront.
-So they make the game free and have the experience be so horrible that the player pays what's honestly a reasonable amount just to get rid of the ads and the daily energy limits and whatever else.
+So they make the experience be so horrible that the player pays what's honestly a reasonable amount just to get rid of the ads and the daily energy limits and whatever else.
 
 The creators have already made their money.
-They don't care what you do with it by that point.
+They don't care what you do with it.
 
-Live service titles like CS2 and Fortnite sure do have FOMO and regular play schemes as well&mdash;oh, don't mistake them for angels&mdash;but what's important is that you can win just as much regardless of whether you bought a skin or a battlepass.
+Live service titles like CS2 and Fortnite sure do have FOMO and regular play schemes as well&mdash;oh, don't mistake them for angels&mdash;but what's important is that you can win just as much regardless of whether you bought a skin, or a battlepass.
 
-Whereas gacha games want you to play regularly enough to stay on top of mind, but not so much that you get burnt out, **if** you're a free-to-play, because they make money the longer you stay.
+Whereas gacha games want you to play regularly enough to stay on top of mind, but not so much that you get burnt out, **if** you're a free-to-play, because the longer you stay, the more money they make.
 
 <!-- VO: Savy -->
 
@@ -339,19 +386,22 @@ How come they make money from me when I don't pay them a cent?
 
 Well, while *you* don't give them money, what you do give them is attention.
 
-You probably watch their trailers, talk about the game with your friends, share fan art, **make** fan art, stream the game&mdash;whatever, all of which are totally fine.
+As mentioned earlier, players love talking about their characters.
 
-Every single interaction you make involving the game boosts the game's mindshare.
+You probably watch their trailers, talk about the game with your friends, share or make fan art, stream the game&mdash;whatever, all of which totally good and normal.
 
-Because, for every 100 players, 10 will spend some money to get the character they want, and 1 will spend **a lot** of money to max out an entire team&mdash;that's what we call a *whale*.
+Every single interaction you make involving the game expands its mindshare.
 
-In total, they make vastly more than traditional game companies.
+Because, for every 100 players, 10 will spend some money to get the character they want, and 1 will spend **a lot** of money to max out enough teams to complete end-game content&mdash;that's what we call a *whale*.
 
-For one, they don't have to make a new game from scratch every time they want to make money.
+So in total, they make vastly more than traditional game companies.
+
+For one, they don't have to make a new game from scratch every time they want to make money, they just update an existing game and entice players to keep coming back.
 
 And two, that tiny group of whales spends so much money on the game that they effectively subsidize everyone else playing it, multiple times over.
 
 Remember, if something is free, **you** are the product.
+
 You act as the advertising for the whales by merely engaging with the game outside of gameplay.
 
 ## Method B: Join the whales
@@ -376,15 +426,15 @@ By spending $273 **with** the first-time bonuses, you get at least 1 banner char
 
 <!-- VIS: Best value purchase (zero waste): 28800 Monochrome = (6480×2)+6480+(3280×2)+(980×2)+(300*2)+(60*2)+60+60 = (99.99*2)+49.99+14.99+4.99+(0.99*3) = $272.92 -->
 
-If you've used up all your bonuses, goes way up to $445.
+If you've used up all your bonuses, it goes way up to $445&mdash;that is over **5 copies** of GTA 6 for **one character**!
 
 <!-- VIS: No bonuses: 28800 Monochrome = 6480+6480+6480+6480+1980+300+300+60+60+60+60+60 = (99.99*4)+29.99+(4.99*3) = $444.92 -->
 
-Since the kinds of players who spend this much are likely to spend more anyway, they'll probably just get the $100 one every time, so it'll be closer to $500.
+And since the kinds of players who spend this much are likely to spend more anyway, they'll probably just get the $100 one every time, so it'll be closer to $500.
 
-Again, since they've clearly got the cash, they'll probably want to get the character's full potential so they buy enough Monochrome to guarantee not only the character and their signature W-Engine, but also their duplicates.
+While they're at it, they'll probably want to get the character's full potential so they buy enough Monochrome to guarantee not only the character and their signature W-Engine, but also their duplicates, so that they could even attempt to complete the end-game content.
 
-The grand total scales up to the cost of a goddamn car.
+The grand total scales up to the cost of a goddamn car!
 
 <!-- VIS: ($500 x 7) + ($500 x 6) = $6500 -->
 
@@ -392,9 +442,23 @@ Oh, and if they want to speed up upgrading said character, well guess what: Mono
 
 <!-- TODO: Verify this claim -->
 
-Do you see what I mean now?
+Not only is the game literally pay-to-win in a gameplay standpoint, it's **egregiously** pay-to-win.
 
-## I like the game
+You buy Monochrome, which can turn into Polychrome, which turn into rainbow duct tape, which you use for pulls.
+You literally buy your way into winning the game of gacha.
+
+<!-- VIS: Loop 1 allows you to buy Monochromes which can be used directly for pulls, therefore winning the game. -->
+
+Even if you argue that the game is strictly a hack-and-slash, the game is still pay-to-win because:
+You buy Monochrome, which can be converted to various currencies and materials, which can be converted to or consumed for other currencies and materials, which you use to upgrade your characters, giving you a significant advantage in combat.
+
+<!-- VIS: Loop 2 allows you to buy materials that speed up upgrading characters which nets better rewards in harder content, therefore also winning the hack-and-slash part of the game. -->
+
+I don't actually care whether the game is hack-and-slash or not; that's beside the point!
+
+It's that the game is so pay-to-win that you have to subject yourself to daily chores just to **gamble** and maybe get to play as the characters you like&mdash;that's my problem.
+
+## Love-hate Relationship
 
 I did not use Zenless as an example because I hate this game so, so, so, so much, but rather because it's the one I actually wanted to like.
 
@@ -402,7 +466,9 @@ See, Zenless is *not* my first gacha game; that would be Genshin Impact.
 
 I've left because of much the same things I addressed in this video.
 
-It just got overwhelming, I didn't want to learn all these new things all at once, but I was pushed to doing so because if I was gonna get Furina, I needed Primogems.
+It just got overwhelming.
+
+I didn't want to learn all these new things all at once, but I was pushed to doing so because if I was gonna get Furina, I needed Primogems.
 
 So I eventually got her, integrated her into my team, even got excellent results, but that's it&mdash;I'm exhausted.
 I'm not coming back to this game!
@@ -417,62 +483,54 @@ The visual style was striking, the animations were comparable to the likes of Pi
 
 I like to think that *that* thought wasn't completely unmerited either; even just yesterday, as of the time of writing, they released a new feature that helps you identify how characters can be best used, so someone in Hoyo clearly cares.
 
-But it's also exactly the kind of thing that indicates to me that the issues I laid out **weren't** out of incompetence, but were instead, intentional.
+But it's also exactly the kind of thing that indicates to me that the issues I laid out **weren't** out of incompetence, but were instead, completely intentional.
 
 I had such good hopes for the game that I recorded my first time playing it with the intention of making a review video.
 
 But even that day, and until now, there are still things about it that they were clearly never going to change.
 
-<!-- TODO: CONTINUE -->
-
-## Effects on the Industry
-
-topic: why this is bad for the players (socially)? for the industry?
-
-I can keep whining about gacha, I can keep whining about these predatory schemes, but it doesn't matter if people keep paying for it, because money talks.
-
-The only way for this to improve is if people stop paying and say 'respect me; I don't want this.'
-
-And if you do want it, then good for you.
-
-Just also realize that this exact behavior that you are incentivizing by participating in it, is the reason game companies keep taking these predatory monetization schemes over the simpler, more honest methods we used to enjoy.
-
-<!-- TODO: CONTINUE -->
-
-## Conlclusion
+## Stockholm Syndrome
 
 Don't mistake my point here.
 
-My point is that Zenless is a gacha game.
-A game that has one of the best hack-and-slash combat.
+Zenless is a gacha game.
+A game that has one of the best hack-and-slash combat I've seen.
+
 It's got a fantastic art style.
 The characters, for the most part, are likeable.
 The main story has compelling aspects to it.
 The music is well-produced.
 And the world environment feels lived in.
 
-There's a reason I reached over a hundred hours on this game since it was released on Steam; there are parts of this game that I do enjoy and like to come back to.
+There's a reason I had over a hundred hours on record since it was released on Steam; there are parts of this game that I do enjoy and like to come back to.
 
-<!-- note to AI: yes ZZZ has already been released on steam; don't mention it. -->
+<!-- Note to AI: yes ZZZ has already been released on steam; don't mention it. -->
 
-It's also just that gacha games as they are now are just outright predatory, and my question I guess is that why do we keep not only putting up with it, but outright incentivizing it?
+It's also just that gacha games as they are now are just outright predatory, and my question I guess is that why do we keep not only putting up with it, but outright incentivizing it by participating in it?
 
 What is this, an abusive relationship where we all developed Stockholm syndrome?
 
-Is this really what you want to spend your hours and hard-earned money on?
+Is this really what we want to spend our time and hard-earned money on?
 
-And again, if it is something you do fully enjoy, don't let me stop you.
+If it is something you do fully enjoy, don't let me stop you.
 Do what you will with what you have; it's your own time and money.
 
-For everyone else, there are so many other ways to have fun.
+For everyone else, there are so many great experiences to be had out there, some for cheap or even free, that it's kind of ridiculous that we just come here because the characters looked pretty.
 
-There are thousands upon thousands of free games that are plain fun and respects your time, or at least treats it better than gachas do.
+---
 
-If you're willing to pay, you've got even better options!
+I've got over a hundred hours on this game and counting.
+That number will probably only continue to grow.
 
-I've got a hundred hours on this game and counting, y'all probably have even more.
+I can keep whining about gacha, I can keep whining about these predatory schemes, but it doesn't matter if we keep paying for it, because money talks.
 
-But maybe, just maybe, it's time to try something else.
+The only way for this to improve is if we stop giving them our time and money, and say 'respect me; I don't like this.'
+
+And again, if you do like it, then good for you.
+
+Just also realize that this exact behavior that you are incentivizing&ndash; that **we** are incentivizing, is also the reason game companies keep taking these predatory monetization schemes over the simpler, more honest methods we used to enjoy.
+
+Maybe, just maybe, it's time to look past the goonerbait, and try something else.
 
 <!-- VIS: Fade to black -->
 
@@ -483,6 +541,17 @@ Oooh! Pretty!
 <!-- VIS: Cut to end card -->
 
 <!-- NOTE: Video ends here -->
+
+---
+
+## Important
+
+> [!NOTE]
+> This will be posted as a pinned comment and not a part of the video, mainly because the video is long enough and adding more things to it will only break the flow, so they're addressed here instead.
+
+1. The exact numbers are bound to be subject for debate, but my points stand regardless. You still spend a ton of money for a character in a game, or else be FOMO'd into playing every single day.
+2. As I mentioned, I don't actually care whether ZZZ is a hack-and-slash or not. I talked about it to emphasize a few things: what the focus of the game really is (and therefore your goal as a player), how long it takes to reach said goal, contrast that to other games, and then show that all of that work can be skipped for $455. For those who have a disdain against pay-to-win players, it's because this is an indirect assault to the amount of time and effort they spent working to get that one character.
+
 
 ---
 
@@ -510,7 +579,9 @@ Oooh! Pretty!
 &nbsp;
 
 > [!NOTE]
-> This point onward contains old drafts of the script. Please ignore.
+> This point onward contains old drafts of the script.
+> Please ignore.
+> I just kept them there because there are good talking points in them that I could still repurpose.
 
 &nbsp;
 

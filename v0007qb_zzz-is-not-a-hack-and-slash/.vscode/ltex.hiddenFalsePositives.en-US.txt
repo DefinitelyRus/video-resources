@@ -3,3 +3,5 @@
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q... /os/?\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QDespite all that, well, I already have a hundred hours on Steam and counting, and dammit, I'mma'na keep playing it until I'm sick of it.\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QOooh!\\E$"}
+{"rule":"IN_WHO","sentence":"^\\QThen, a lot of the time, only then do they find a purpose for said character because the player got them for who the character is, and not for what they're capable of.\\E$"}
+{"rule":"MUCH_COUNTABLE","sentence":"^\\QThere are so much great experiences to be had out there, some for cheap or even free, that it's kind of ridiculous that we just come here because the characters looked pretty.\\E$"}
