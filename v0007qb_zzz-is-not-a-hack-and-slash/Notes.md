@@ -11,14 +11,28 @@ Titles:
 ## Intro
 
 It would be **insane** to say that you win the game of Zenless Zone Zero by clicking a button and getting the banner character... right?
+<!-- VIS:
+1. "IT WOULD BE INSANE"
+2. ZZZ banner/logo
+3. Character banner
+4. Winning an S-rank character
+5. "right?"
+-->
 
 I mean, this whole gacha mechanic is **just** a part of the game.
+<!-- VIS: Pulling any banner -->
+
 That's like saying you win GTA by winning at the casino.
+<!-- VIS: Losing a lot of money at a casino in GTA 4 -->
 
 After all, Zenless is a *hack-and-slash* that just so happens to have a gacha mechanic.
+<!-- VIS: Any combat gameplay -->
+
 It's just the place where you get stronger characters so you can complete harder challenges!
+<!-- VIS: Character banner screen -->
 
 *But is it, though?*
+<!-- TEXT: But is it, though? -->
 
 Obviously, *this* is a hack-and-slash.
 <!-- VIS: Combat simulation gameplay -->
@@ -46,94 +60,167 @@ Unlike alternate modes in other games, these are played just as much as the core
 Lastly, games are just neatly wrapped challenges.
 And to have a challenge, the player must have a goal, be it extrinsic or **intrinsic**.
 Otherwise, what's the point, right?
+<!-- VIS: osu! gameplay -->
 
 So, what really *is* the end goal in Zenless Zone Zero?
+<!-- TEXT: What is the true goal in ZZZ? -->
 
 By the end of this video, you will have learned a little bit about game design, what Zenless really is, and bleak reality of where we allow our time and money to be spent.
+<!-- VIS:
+1. Godot footage
+2. ZZZ logo silhouette with "???"
+3. Burning money stock footage
+-->
 
 We'll come back to that.
+<!-- VIS: Dragging "questions.txt" to "do later" folder -->
 
 ## Gameplay Loops
+
+<!-- BG: CS2 gameplay -->
 
 First, we need some context.
 
 When designing a game, you **must** set a starting condition, an end goal, and a challenge that a player **must** overcome to reach said goal.
+<!-- VIS: A linear graph like this: o---x---o -->
 
 When combined, these three form what's called a *gameplay loop*.
+<!-- VIS: Looping icon, spinning, with a "gameplay loop" text static in the middle. -->
 
 Think of **any** game, and you will *probably* find its gameplay loop pretty quickly.
 
 Take a classic for example: Plants vs. Zombies.
+<!-- BG: PvZ gameplay; an empty lawn during the "Ready Set Plant" segment -->
+<!-- VIS: PvZ banned/logo -->
 
 You have a set of plants and an empty lawn&mdash;this is your starting condition.
+<!-- VIS: Highlight the plant hotbar and the lawn -->
 
-Your goal is to reach the end of the day&mdash;or night&mdash;as indicated by this bar. <!-- this = level progress bar -->
+Your goal is to reach the end of the day&mdash;or night&mdash;as indicated by this bar.
+<!-- VIS: Zoom in to the level progress bar -->
 
 *But*, the zombies want your brain.
+<!-- VIS: PvZ brain PNG, OR zoom in to said brain in i, Zombie -->
+
 **If** they reach your house, you will die!
+<!-- VIS: PvZ loss screen -->
 
 So, to stop them, you put down plants that protect your lawn and therefore your brain, assuming of course that it exists.
+<!-- VIS: Standard PvZ gameplay -->
 
 There. We have a starting condition, an end goal, and a challenge&mdash;a complete *gameplay loop* that takes all of about 3&ndash;10 minutes each.
+<!-- VIS:
+The linear graph with added info
+1. Empty lawn
+2. Finish flag
+3. Zombie head
+
+Turn the linear graph into a loop
+-->
+<!-- TEXT: 3-10 minutes -->
 
 ## Micro and macro loops
 
 But the game's not over.
 The zombies **will** come back tomorrow.
+<!-- CLEAR VISUALS -->
 
 So, you do it again, and again, *and again*, until you defeat Dr. Zomboss.
+<!-- VIS: 3 different levels, in chronological order. Defeat Dr. Zomboss -->
 
 At which point, you have essentially *finished the game*! Congratulations!
-<!-- VFX: A jpeg of people clapping, SFX: generic applause -->
+<!-- VIS: GIF of people clapping-->
+<!-- SFX: generic applause -->
 
 But look: if you inspect the game **less** closely, you start to see an overarching gameplay loop!
+<!-- VIS: A chain of gameplay loops -->
 
 There's a new starting condition, an end goal, and a challenge to overcome, that wraps all the levels together!
 <!-- VIS:
-- starting condition: front lawn gameplay
-- challenge: zombies attacking from different fronts / time of day
-- goal: defend until you can defeat zomboss
+1. Limited plant selection
+2. Defeating Dr. Zomboss
+3. "Ready Set Plant" in 3 different levels, in horizontal split-screen
 -->
 
 So with this, we can call each level a *micro loop*, and when you finish it, you progress towards your **macro** loop.
+<!-- VIS: A big loop.
+- 12:00 position: Peashooter
+- 2:00 position: Puff shroom
+- 4:00 position: Lily pad
+- 6:00 position: Seashroom
+- 8:00 position: Flower pot
+- 10:00 position: Dr. Zomboss
+-->
 
 ## Undefined goals
 
 But that's only so clear for linear games like Plants vs. Zombies or Call of Duty.
+<!-- VIS: PvZ and Call of Duty 1 banner/logo -->
 
 How about, say, osu!? ... /os/?
-I dunno...
+<!-- BG: osu! gameplay -->
+<!-- VIS: osu! logo -->
+
+<!-- VIS: "osu!" in Google text to speech -->
 
 Anyway, we know the start condition, the challenge, and the goal for the micro loop.
+<!-- VIS: The same loop.
+- 0 score
+- Click circles
+- Get a grade
+-->
 
 But what's the overarching end goal for the macro loop?
+<!-- VIS: The macro loop, but only the 12:00 position has an "A" rank logo, while everything else has "?" -->
+
 Does it even need one?
+<!-- VIS: A big "?" in the middle of the loop -->
 
 For many people, getting a high-score or an S or a **double** S is enough of a goal.
+<!-- VIS: S rank. Draw another S. -->
 
 For others, it may be having a *\~larger\~* PP... score.
+<!-- VIS: Show syni's profile or something -->
 
 As for me, I just try to reach A consistently on higher and higher difficulties on songs I like.
+<!-- VIS: Scroll through my song selection -->
 
 So for this game, the overarching goal is **effectively** up to you.
+<!-- VIS: Index finger pointing towards the viewer -->
 
 In the case with something like Minecraft, the actual game isn't *Minecraft*, at least in a technical sense.
+<!-- VIS: Minecraft gameplay, Minecraft logo crossed out in a 🚫 sign -->
 
 That would be Bedwars, Survival, Cops & Robbers, Feed the Beast&mdash;Minecraft itself doesn't provide the gameplay loop, these do&mdash;that's why people play Minecraft.
+<!-- VIS:
+- Bedwars gameplay
+- Survival gameplay
+- Old SSundee Cops & Robbers gameplay
+- Old SSundee Feed the Beast gameplay
+-->
 
 ## ZZZ's true overarching goal
 
 <!-- TITLE: What is the real goal in ZZZ? -->
+<!-- BG: ZZZ gameplay -->
 
 So, where does Zenless sit in all this?
 
-We know that a game must have a starting condition, a challenge, and an end goal.
+We know that a game must have a gameplay loop.
+<!-- VIS: Empty gameplay loop -->
 
 We know that, for the players to **want** to play the game, they must have a goal that they **want** to achieve.
+<!-- VIS:
+- PvZ: Silver trophy
+- Osu: SS rank
+- Bedwars (Minecraft): Technoblade crown
+-->
 
 On a related note, a well-designed game will naturally lead you towards the goal **it** wants you to achieve.
+<!-- VIS: Yellow paint in certain games -->
 
 <!-- VO: Savy -->
+<!-- VIS: Annoyed, asking, disapproving -->
 
 So what is it?
 
@@ -143,31 +230,52 @@ Is your point that Zenless is a bad game?
 <!-- VO: Rus -->
 
 No, quite the opposite; Zenless is **ridiculously effective** at getting you to want to achieve your goal.
+<!-- TEXT: RIDICULOUSLY EFFECTIVE (full screen) -->
 
 So much so, that it began before you even installed the game.
-
 <!-- VIS: A snippet of a character teaser trailer -->
 
 The overarching goal of the vast majority of the playerbase is to get the character they want.
 
 The game leads you to it starting from trailers like these.
 
-Notice how the video shows you how cute or cool or sexy these characters are, how flashy the animations look, how powerful they seem, how likeable their personalities are.
+Notice how the sex appeal of these characters are apparent from the design itself down to the in-game animations.
+<!-- VIS: Remielle banner image, teaser trailer -->
 
-<!-- TODO: Add a bit about their music videos, S-tier animations, mastery of goonerbaiting -->
+Their personalities and mannerisms appeal specifically to their target audiences.
+<!-- VIS: Vivian
+- Obsessed with MC
+- Obsessed with MC
+- Obsessed with MC
+-->
 
-They want you to **love** these characters **so much** that you'll go play the game just to have them in your roster.
+The animations are insanely flashy, and really emphasizes how powerful these characters can be.
+<!-- VIS: Trailer animations -->
+
+And, characters get a teaser trailer, a *gameplay* trailer, and maybe even a music video, **each**.
+<!-- VIS:
+1. Teaser Trailer
+2. Gameplay Trailer
+3. Music Video
+-->
+
+Oh, don't forget about the birthday posts and collabs.
+<!-- VIS: Birthday community posts, collabs -->
+
+They want you to love these characters **so much** that you'll go play the game just to have them in your roster.
+<!-- VIS: Clicking the download button on their website -->
 
 It doesn't even matter if the use of these characters are any fun, because the fun comes from the act of collecting, building, and ultimately using them, even in other games!
+<!-- VIS: Upgrading a character -->
+<!-- VIS: Blade in Fortnite -->
 
 I mean, Zenless and Genshin have quite an engaging combat and world exploration if I do say so myself, so good on them for that.
+<!-- VIS: Zenless & Genshin combat gameplay -->
 
 But something like Azur Lane barely even qualifies as a side-scroller when **this** part of the game is so simplistic.
-
 <!-- VIS: Azur Lane combat (manual) -->
 
 And then, a few level-ups later, the game would even play itself.
-
 <!-- VIS: Azur Lane combat (auto) -->
 
 And I played until I was like level 120 or something, because the combat was never the point!
@@ -176,18 +284,19 @@ Enterprise was.
 <!-- VIS: Enterprise png -->
 <!-- SFX: Enterprise voice line "Owari da!", distorted -->
 
-That same point carries across all the gacha games I've played: it's all about the character.
+That same point carries across all the gacha games I've played: it's all about the characters.
+<!-- VIS: -->
 
 They talk about which characters they like, they share fan art, **make** fan art.
 
 They do commissions, skip through dialogue, skip banners, anything just to save up for their desired character.
 
-And, they get excited when they finally **do** get them.
+Then, they get excited when they finally **do** get them.
 
-Then, a lot of the time, only **then** do they find a purpose for said character because the player got them for who the character is, and not for what they're capable of&mdash;a green flag for dating, not so much for those looking to win in **combat**.
+A lot of the time, only **then** do they find a purpose for said character because the player got them for who the character is, and not for what they're capable of&mdash;a green flag for dating, sure; not so much for those looking to win in **combat**.
 
 **These** are products!
-And you win the game of gacha when you get these products.
+And you win the game of gacha when you get them.
 
 All these modes are just micro loops; they're just a means to accomplish the macro loop that is the gacha system!
 
@@ -225,7 +334,7 @@ If you want more, *these* are your best bet, although 2 of them require your str
 
 <!-- VIS: Shiyu Defense, Deadly Assault, Hollow Zero, Limited-time events -->
 
-The game is so centered around collecting Polychrome&mdash;or rainbow duct tape&mdash;that there's an entire menu dedicated to telling you where to get them, what kinds of activities they are, and how much you can expect.
+The game is so centered around collecting Polychrome&mdash;or rainbow duct tape&mdash;that there's an entire menu dedicated to telling you where to get them, how long they take to do, and how much you can expect.
 
 The thing is, this very menu also exposes the crux of the issue.
 
@@ -325,7 +434,7 @@ Oh, and don't forget, you still gotta have the best W-Engine that works for her 
 
 Remember those 2 modes I mentioned earlier?
 
-The difficulty scaling on those ramp up so much that it's virtually impossible to 100% beat unless you've practically fully maxed out 2&ndash;3 teams, with their signature W-Engines, and their duplicates, which&mdash;I reiterate&mdash;takes anywhere from 12,000 to 14,000 Polychrome **each**, just for an S-rank guarantee, not even the exact one you want.
+The difficulty scaling on those ramp up so much that it's virtually impossible to 100% beat unless you've practically fully maxed out 2&ndash;3 teams, with their signature W-Engines, **and** their duplicates, which&mdash;I reiterate&mdash;takes anywhere from 12,000 to 14,000 Polychrome **each**, just for an S-rank guarantee, that may or may not be the one you want.
 
 So, the largest weekly-recurring sources of Polychrome are virtually inaccessible for anyone but the most diehard of players.
 
