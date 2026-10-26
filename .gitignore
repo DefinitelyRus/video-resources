@@ -3,6 +3,13 @@
 *.mkv
 *.mov
 
+// Audio files
+*.aup3
+*.wav
+*.mp3
+*.ogg
+*.flac
+
 // Krita save files
 *.kra.*
 *.kra~
