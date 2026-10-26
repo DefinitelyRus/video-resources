@@ -59,7 +59,7 @@ Take a classic for example: Plants vs. Zombies.
 
 You have a set of plants and an empty lawn&mdash;this is your starting condition.
 
-Your goal is to reach the end of the day&mdash;or night&mdash;as indicated by this bar. <!-- this = level progress bar -->
+Your goal is to reach the end of the day&mdash;or night&mdash;as indicated by this bar.
 
 *But*, the zombies want your brain.
 **If** they reach your house, you will die!
@@ -94,7 +94,6 @@ So with this, we can call each level a *micro loop*, and when you finish it, you
 But that's only so clear for linear games like Plants vs. Zombies or Call of Duty.
 
 How about, say, osu!? ... /os/?
-I dunno...
 
 Anyway, we know the start condition, the challenge, and the goal for the micro loop.
 
@@ -119,7 +118,7 @@ That would be Bedwars, Survival, Cops & Robbers, Feed the Beast&mdash;Minecraft 
 
 So, where does Zenless sit in all this?
 
-We know that a game must have a starting condition, a challenge, and an end goal.
+We know that a game must have a gameplay loop.
 
 We know that, for the players to **want** to play the game, they must have a goal that they **want** to achieve.
 
@@ -137,18 +136,24 @@ Is your point that Zenless is a bad game?
 No, quite the opposite; Zenless is **ridiculously effective** at getting you to want to achieve your goal.
 
 So much so, that it began before you even installed the game.
-
 <!-- VIS: A snippet of a character teaser trailer -->
 
 The overarching goal of the vast majority of the playerbase is to get the character they want.
 
 The game leads you to it starting from trailers like these.
 
-Notice how the video shows you how cute or cool or sexy these characters are, how flashy the animations look, how powerful they seem, how likeable their personalities are.
+Notice how the sex appeal of these characters are apparent from the design itself down to the in-game animations.
 
 <!-- TODO: Add a bit about their music videos, S-tier animations, mastery of goonerbaiting -->
+Their personalities and mannerisms appeal specifically to their target audiences.
 
-They want you to **love** these characters **so much** that you'll go play the game just to have them in your roster.
+The animations are insanely flashy, and really emphasizes how powerful these characters can be.
+
+And, characters get a teaser trailer, a *gameplay* trailer, and maybe even a music video, **each**.
+
+Oh, don't forget about the birthday posts and collabs.
+
+They want you to love these characters **so much** that you'll go play the game just to have them in your roster.
 
 It doesn't even matter if the use of these characters are any fun, because the fun comes from the act of collecting, building, and ultimately using them, even in other games!
 
@@ -170,16 +175,16 @@ Enterprise was.
 
 That same point carries across all the gacha games I've played: it's all about the character.
 
-They talk about which characters they like, they share fan art, **make** fan art.
+Players talk about which characters they like, they share fan art, **make** fan art.
 
 They do commissions, skip through dialogue, skip banners, anything just to save up for their desired character.
 
-And, they get excited when they finally **do** get them.
+Then, they get excited when they finally **do** get them.
 
-Then, a lot of the time, only **then** do they find a purpose for said character because the player got them for who the character is, and not for what they're capable of&mdash;a green flag for dating, not so much for those looking to win in **combat**.
+A lot of the time, only **then** do they find a purpose for said character because the player got them for who the character is, and not for what they're capable of&mdash;a green flag for dating, sure; not so much for those looking to win in **combat**.
 
 **These** are products!
-And you win the game of gacha when you get these products.
+And you win the game of gacha when you get them.
 
 All these modes are just micro loops; they're just a means to accomplish the macro loop that is the gacha system!
 
@@ -199,7 +204,7 @@ Let's start with the one that most players do: get grinding.
 - Making friends
 - Reading a tutorial
 - Getting achievements
-- and in case you're putting it off like I am, the main story has the most to give by far.
+- and in case you're putting it off like I am, hollow zero lost void has the most to give by far.
 
 Although, once they're gone, they're **gone**.
 
@@ -246,9 +251,7 @@ But critically, only a **51%** chance of getting the one on the banner.
 
 Because, of course, you only get the banner character 50% of the time by default, and only becomes guaranteed if you have already lost the 50/50.
 
-That is to say, you would have spent 80 pulls, or **12,800** Polychrome, or **X weeks** of recurring rewards, just for a 51% chance to get the character you want.
-
-<!-- TODO: Update placeholder value -->
+That is to say, you would have spent 80 pulls, or **12,800** Polychrome, or over **5 weeks** of recurring rewards, just for a 51% chance to get the character you want.
 
 So if lost that 50/50, winning isn't actually winning, because you haven't won *enough*.
 
@@ -307,9 +310,7 @@ That's 320 per 24-hour period.
 
 However, you only get this many of each material for every 20 battery consumed.
 
-Which means, assuming you start with no items playing at the highest difficulties with the best rewards, you would need&mdash;**at minimum**&mdash;X battery or Y days worth of recharge, just to collect the materials for Burnice *alone*, **on her trial build**, and that doesn't even include the discs themselves because 3 main stats and 24 substats and its upgrades are random so the time to get them could be 5 minutes to 5 months, if you have Touma's luck.
-
-<!-- VIS: Touma from Toaru Majutsu no Index getting into yet another accident -->
+Which means, assuming you start with no items playing at the highest difficulties with the best rewards, you would need&mdash;**at minimum**&mdash;4960 battery or 17 days worth of recharge, just to collect the materials for Roxy *alone*, **on her trial build**, and that doesn't even include the discs themselves because 3 main stats and 24 substats and its upgrades are random so the time to get them could be 5 minutes to 5 months, if lady luck finds you ugly.
 
 And you have to do this for 2 more characters to complete the team!
 
@@ -333,13 +334,13 @@ Skyrim takes about 35 hours for the mainline story.
 
 And, Terraria takes around 51 hours from creating a new world to defeating the Moon Lord.
 
-Even if we get 20 free pulls from event rewards, which is around what I expect for each banner, that's still 9,600 Polychrome or X weeks of recurring rewards **if** you can actually get them, and that's ignoring the time it takes to upgrade characters.
+Even if we get 20 free pulls from event rewards, which is around what I expect for each banner, that's still 9,600 Polychrome or 8 weeks of recurring rewards **if** you can actually get them, and that's ignoring the time it takes to upgrade characters.
 
-Well, it's not like you play for X weeks straight, but the point is that you're essentially coerced into playing every single day or else, you miss out on rewards.
+Well, it's not like you play for 8 weeks straight, but the point is that you're essentially coerced into playing every single day or else, you miss out on rewards.
 
 Not completing your dailies loses you 60 Polychrome and a day worth of upgrade materials.
 
-Not doing your weeklies loses you X Polychrome and a week of other upgrade materials.
+Not doing your weeklies loses you 220 Polychrome and a week of other upgrade materials.
 
 Maybe even more depending on the ongoing events.
 
