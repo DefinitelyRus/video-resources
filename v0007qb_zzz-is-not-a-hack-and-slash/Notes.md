@@ -10,6 +10,8 @@ Titles:
 
 ## Intro
 
+**(Retake?)**
+
 It would be **insane** to say that you win the game of Zenless Zone Zero by clicking a button and getting the banner character... right?
 <!-- VIS:
 1. "IT WOULD BE INSANE"
@@ -76,6 +78,8 @@ We'll come back to that.
 <!-- VIS: Dragging "questions.txt" to "do later" folder -->
 
 ## Gameplay Loops
+
+**(Retake)**
 
 <!-- BG: CS2 gameplay -->
 
@@ -363,9 +367,7 @@ But critically, only a **51%** chance of getting the one on the banner.
 
 Because, of course, you only get the banner character 50% of the time by default, and only becomes guaranteed if you have already lost the 50/50.
 
-That is to say, you would have spent 80 pulls, or **12,800** Polychrome, or **X weeks** of recurring rewards, just for a 51% chance to get the character you want.
-
-<!-- TODO: Update placeholder value -->
+That is to say, you would have spent 80 pulls, or **12,800** Polychrome, or over **5 weeks** of recurring rewards, just for a 51% chance to get the character you want.
 
 So if lost that 50/50, winning isn't actually winning, because you haven't won *enough*.
 
@@ -424,9 +426,7 @@ That's 320 per 24-hour period.
 
 However, you only get this many of each material for every 20 battery consumed.
 
-Which means, assuming you start with no items playing at the highest difficulties with the best rewards, you would need&mdash;**at minimum**&mdash;X battery or Y days worth of recharge, just to collect the materials for Burnice *alone*, **on her trial build**, and that doesn't even include the discs themselves because 3 main stats and 24 substats and its upgrades are random so the time to get them could be 5 minutes to 5 months, if you have Touma's luck.
-
-<!-- VIS: Touma from Toaru Majutsu no Index getting into yet another accident -->
+Which means, assuming you start with no items playing at the highest difficulties with the best rewards, you would need&mdash;**at minimum**&mdash;4960 battery or 16 days worth of recharge, just to collect the materials for Roxy *alone*, **on her trial build**, and that doesn't even include the discs themselves because 3 main stats and 24 substats and its upgrades are random so the time to get them could be 5 minutes to 5 months, if lady luck finds you ugly.
 
 And you have to do this for 2 more characters to complete the team!
 
@@ -450,13 +450,13 @@ Skyrim takes about 35 hours for the mainline story.
 
 And, Terraria takes around 51 hours from creating a new world to defeating the Moon Lord.
 
-Even if we get 20 free pulls from event rewards, which is around what I expect for each banner, that's still 9,600 Polychrome or X weeks of recurring rewards **if** you can actually get them, and that's ignoring the time it takes to upgrade characters.
+Even if we get 20 free pulls from event rewards, which is around what I expect for each banner, that's still 9,600 Polychrome or 8 weeks of recurring rewards **if** you can actually get them, and that's ignoring the time it takes to upgrade characters.
 
-Well, it's not like you play for X weeks straight, but the point is that you're essentially coerced into playing every single day or else, you miss out on rewards.
+Well, it's not like you play for 8 weeks straight, but the point is that you're essentially coerced into playing every single day or else, you miss out on rewards.
 
 Not completing your dailies loses you 60 Polychrome and a day worth of upgrade materials.
 
-Not doing your weeklies loses you X Polychrome and a week of other upgrade materials.
+Not doing your weeklies loses you 220 Polychrome and a week of other upgrade materials.
 
 Maybe even more depending on the ongoing events.
 
