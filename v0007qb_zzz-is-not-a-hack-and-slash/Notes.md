@@ -1,4 +1,4 @@
-# Zenless Zone Zero is not a Hack-and-Slash\*
+# Gacha games don't respect you
 
 Titles:
 
@@ -9,8 +9,6 @@ Titles:
 - Most people overlook how predatory gacha games are
 
 ## Intro
-
-**(Retake?)**
 
 It would be **insane** to say that you win the game of Zenless Zone Zero by clicking a button and getting the banner character... right?
 <!-- VIS:
@@ -64,9 +62,11 @@ And to have a challenge, the player must have a goal, be it extrinsic or **intri
 Otherwise, what's the point, right?
 <!-- VIS: osu! gameplay -->
 
+<!-- TODO: If the next portion is skipped, retake this. -->
 So, what really *is* the end goal in Zenless Zone Zero?
 <!-- TEXT: What is the true goal in ZZZ? -->
 
+<!-- NOTE: Possibly remove? -->
 By the end of this video, you will have learned a little bit about game design, what Zenless really is, and bleak reality of where we allow our time and money to be spent.
 <!-- VIS:
 1. Godot footage
@@ -158,6 +158,7 @@ So with this, we can call each level a *micro loop*, and when you finish it, you
 
 ## Undefined goals
 
+<!-- TODO: Retake S2 3:13. Weird pronunciation. -->
 But that's only so clear for linear games like Plants vs. Zombies or Call of Duty.
 <!-- VIS: PvZ and Call of Duty 1 banner/logo -->
 
@@ -177,12 +178,15 @@ Anyway, we know the start condition, the challenge, and the goal for the micro l
 But what's the overarching end goal for the macro loop?
 <!-- VIS: The macro loop, but only the 12:00 position has an "A" rank logo, while everything else has "?" -->
 
+<!-- TODO: Remove. Not addressed in the video. -->
 Does it even need one?
 <!-- VIS: A big "?" in the middle of the loop -->
 
+<!-- TODO: Retake S2 3:39. Take is hard to understand ("enough of a goal"). -->
 For many people, getting a high-score or an S or a **double** S is enough of a goal.
 <!-- VIS: S rank. Draw another S. -->
 
+<!-- TODO: Retake S2 3:44. Kinda weird. -->
 For others, it may be having a *\~larger\~* PP... score.
 <!-- VIS: Show syni's profile or something -->
 
@@ -208,6 +212,7 @@ That would be Bedwars, Survival, Cops & Robbers, Feed the Beast&mdash;Minecraft 
 <!-- TITLE: What is the real goal in ZZZ? -->
 <!-- BG: ZZZ gameplay -->
 
+<!-- TODO: Retake S2 4:19 to 5:39. Tired voice. -->
 So, where does Zenless sit in all this?
 
 We know that a game must have a gameplay loop.
@@ -263,6 +268,7 @@ And, characters get a teaser trailer, a *gameplay* trailer, and maybe even a mus
 3. Music Video
 -->
 
+<!-- NOTE: Retake until here. -->
 Oh, don't forget about the birthday posts and collabs.
 <!-- VIS: Birthday community posts, collabs -->
 
@@ -288,8 +294,9 @@ Enterprise was.
 <!-- VIS: Enterprise png -->
 <!-- SFX: Enterprise voice line "Owari da!", distorted -->
 
+<!-- TODO: Retake S2 6:21->
 That same point carries across all the gacha games I've played: it's all about the characters.
-<!-- VIS: -->
+<!-- VIS: PNGs of 3 of the most popular characters in various gacha games -->
 
 They talk about which characters they like, they share fan art, **make** fan art.
 
@@ -336,7 +343,7 @@ Though realistically, those only give a few at a time, so that won't cut it.
 
 If you want more, *these* are your best bet, although 2 of them require your strongest teams&mdash;more of those later.
 
-<!-- VIS: Shiyu Defense, Deadly Assault, Hollow Zero, Limited-time events -->
+<!-- VIS: Shiyu Defense, Deadly Assault, Hollow Zero Weekly commissions, Limited-time events -->
 
 The game is so centered around collecting Polychrome&mdash;or rainbow duct tape&mdash;that there's an entire menu dedicated to telling you where to get them, how long they take to do, and how much you can expect.
 
@@ -483,6 +490,7 @@ They don't care what you do with it.
 
 Live service titles like CS2 and Fortnite sure do have FOMO and regular play schemes as well&mdash;oh, don't mistake them for angels&mdash;but what's important is that you can win just as much regardless of whether you bought a skin, or a battlepass.
 
+<!-- TODO: Retake S1 17:41 onward. Losing energy. -->
 Whereas gacha games want you to play regularly enough to stay on top of mind, but not so much that you get burnt out, **if** you're a free-to-play, because the longer you stay, the more money they make.
 
 <!-- VO: Savy -->
@@ -649,7 +657,7 @@ Oooh! Pretty!
 
 <!-- VIS: Cut to end card -->
 
-<!-- NOTE: Video ends here -->
+<!-- Video ends here -->
 
 ---
 
