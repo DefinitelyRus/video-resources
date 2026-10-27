@@ -295,7 +295,7 @@ Enterprise was.
 <!-- VIS: Enterprise png -->
 <!-- SFX: Enterprise voice line "Owari da!", distorted -->
 
-<!-- TODO: Retake S2 6:21->
+<!-- TODO: Retake S2 6:21 -->
 That same point carries across all the gacha games I've played: it's all about the characters.
 <!-- VIS: PNGs of 3 of the most popular characters in various gacha games -->
 
@@ -308,7 +308,7 @@ Then, they get excited when they finally **do** get them.
 A lot of the time, only **then** do they find a purpose for said character because the player got them for who the character is, and not for what they're capable of&mdash;a green flag for dating, sure; not so much for those looking to win in **combat**.
 
 **These** are products!
-And you win the game of gacha when you get these enter your roster.
+And you win the game of gacha when they enter your roster.
 
 All these modes are just micro loops; they're just a means to accomplish the macro loop that is the gacha system!
 
@@ -559,7 +559,7 @@ The grand total scales up to the cost of a goddamn car!
 
 <!-- VIS: ($500 x 7) + ($500 x 6) = $6500 -->
 
-Oh, and if they want to speed up upgrading said character, well guess what: Monochrome can be converted into nearly all currencies and materials in the game, including batteries, so they don't have to do as much grinding as free-to-plays do.
+Oh, and if they want to speed up upgrading said character, well guess what: Monochrome can be converted to Polychrome, which can be converted to battery, so they don't have to wait as long.
 
 <!-- TODO: Verify this claim -->
 
@@ -570,8 +570,7 @@ You literally buy your way into winning the game of gacha.
 
 <!-- VIS: Loop 1 allows you to buy Monochromes which can be used directly for pulls, therefore winning the game. -->
 
-Even if you argue that the game is strictly a hack-and-slash, the game is still pay-to-win because:
-You buy Monochrome, which can be converted to various currencies and materials, which can be converted to or consumed for other currencies and materials, which you use to upgrade your characters, giving you a significant advantage in combat.
+Even if you argue that the game is strictly a hack-and-slash, the game is still pay-to-win because buying Monochrome could be used to skip waiting for battery to recharge, significantly shortening the timeline for those willing to spend.
 
 <!-- VIS: Loop 2 allows you to buy materials that speed up upgrading characters which nets better rewards in harder content, therefore also winning the hack-and-slash part of the game. -->
 
