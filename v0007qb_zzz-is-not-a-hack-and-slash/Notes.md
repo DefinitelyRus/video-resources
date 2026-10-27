@@ -199,7 +199,8 @@ So for this game, the overarching goal is **effectively** up to you.
 In the case with something like Minecraft, the actual game isn't *Minecraft*, at least in a technical sense.
 <!-- VIS: Minecraft gameplay, Minecraft logo crossed out in a 🚫 sign -->
 
-That would be Bedwars, Survival, Cops & Robbers, Feed the Beast&mdash;Minecraft itself doesn't provide the gameplay loop, these do&mdash;that's why people play Minecraft.
+<!-- TODO: Retake S2 3:59. Weird intonation, fumbled voiceover, script edit -->
+That would be Bedwars, Survival, Cops & Robbers, Feed the Beast&mdash;Minecraft itself doesn't provide the gameplay loop, these do&mdash;Minecraft is just the platform wherein games could be made.
 <!-- VIS:
 - Bedwars gameplay
 - Survival gameplay
@@ -307,7 +308,7 @@ Then, they get excited when they finally **do** get them.
 A lot of the time, only **then** do they find a purpose for said character because the player got them for who the character is, and not for what they're capable of&mdash;a green flag for dating, sure; not so much for those looking to win in **combat**.
 
 **These** are products!
-And you win the game of gacha when you get them.
+And you win the game of gacha when you get these enter your roster.
 
 All these modes are just micro loops; they're just a means to accomplish the macro loop that is the gacha system!
 
@@ -321,30 +322,33 @@ Almost universally in just about any gacha game, there are 2 main ways.
 
 Let's start with the one that most players do: get grinding.
 
-- Commissions
-- Exploring
-- Being nosy
-- Making friends
-- Reading a tutorial
-- Getting achievements
-- and in case you're putting it off like I am, the main story has the most to give by far.
+<!-- TODO: Retake S2 7:36. Updated script. -->
+- Commissions <!-- VIS: Interknot -->
+- Exploring <!-- VIS: Lost container -->
+- Being nosy <!-- VIS: Talking to NPCs -->
+- Making friends <!-- VIS: Hangout with characters -->
+- Main story <!-- VIS: Main story -->
+- *Side* story <!-- VIS: Side stories -->
+- Permanent events <!-- VIS: Permanent events (like the soup shop) -->
+- and doing Hollow Zero: Lost Void, which has the most to give by far. <!-- VIS: Hollow Zero Lost Void -->
 
 Although, once they're gone, they're **gone**.
 
 Not to worry; there are recurring sources too, like:
 
-- Talking to a dog
-- The mere act of logging in
+- Talking to a dog <!-- VIS: Lotto -->
 - Doing your dailies
 - Doing your weeklies
+- Checking your mail
 - Visiting their website every day
 
 Though realistically, those only give a few at a time, so that won't cut it.
 
-If you want more, *these* are your best bet, although 2 of them require your strongest teams&mdash;more of those later.
+If you want more, *these* are your best bet, although 2 of them require your strongest teams&mdash;more on those later.
 
 <!-- VIS: Shiyu Defense, Deadly Assault, Hollow Zero Weekly commissions, Limited-time events -->
 
+<!-- TODO: Retake S2 8:19 onward. Incomplete. -->
 The game is so centered around collecting Polychrome&mdash;or rainbow duct tape&mdash;that there's an entire menu dedicated to telling you where to get them, how long they take to do, and how much you can expect.
 
 The thing is, this very menu also exposes the crux of the issue.
